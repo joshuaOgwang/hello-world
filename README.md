@@ -1,2 +1,1 @@
-# hello-world
-Getting started with github. Creating my first github repository
+I am currently pursuing a bachelors degree of science in Information systems. I really love to code and I can code in java and I am currently learning web development technologies especially HTML5, CSS3 and JavaScript. Others languages I want to learn are python and ruby or swift. You can hit me up on twitter @Ja1Ogwang or on linkedIn @<!--linkedIn link-->.
